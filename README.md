@@ -24,5 +24,5 @@
 - Analysis of CPC network trends over time
 - Analysis of Technology Convergence by Technology Redefine
 - You can see network picture through my network file
-
-
+#
+### a link to a paper: http://kiss.kstudy.com/thesis/thesis-view.asp?key=3878951
