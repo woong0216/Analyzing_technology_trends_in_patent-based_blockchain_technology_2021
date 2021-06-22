@@ -39,7 +39,9 @@
 - It is analyzed through three defined blockchains.
 - It analyzed each blockchain by dividing it into three periods.
 > Period 1: 2010.01.01~2012.12.31 <br/>
+
 > Period 2: 2013.01.01~2015.12.31 <br/>
+
 > Period 3: 2016.01.01~2020.06.30 <br/>
 
 > ex) Core Blockchain CPC Network (period1) <br/>
