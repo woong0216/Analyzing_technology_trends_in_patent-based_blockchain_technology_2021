@@ -61,6 +61,7 @@
 - Through the patent analysis of this study, we were able to identify relatively technical features among the areas that were not mentioned in the blockchain utilization field research.
 - Through industrial technology trends and CPC technology trends, we looked at the growth direction of blockchain. 
 - We have identified connectivity with healthcare (medication management, information management in surgery), the electric vehicle industry and the 3D printing industry.
+- It was confirmed that blockchain patents were divided by timing and developed in order of network security, data security, and payment system (data security) through highly relevant groups.
 
 ## Reference
 - http://kiss.kstudy.com/thesis/thesis-view.asp?key=3878951
